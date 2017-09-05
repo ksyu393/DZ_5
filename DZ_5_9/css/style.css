@@ -1,0 +1,29 @@
+.main-block {
+position: relative;
+background-color: #80cdc6;
+margin: auto;
+width: 850px;
+height: 600px;
+}
+.water{
+position: absolute;
+bottom: 0;
+font-size: 0;
+z-index: 3;
+}
+.world{
+position: absolute;
+bottom: 0;
+z-index: 1;
+}
+.wooden{
+position: absolute;
+bottom: 55px;
+left: -10px;
+z-index: 2;
+}
+.clouds{
+position: absolute;
+top: 0;
+right: 10px;
+}

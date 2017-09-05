@@ -1,0 +1,52 @@
+.fullwrap{
+position: relative;
+height: 900px;
+width: 800px;
+margin: 20px auto;
+border: 1px solid black;
+}
+.header{
+font-family: Tahoma;
+padding-left: 15px;
+}
+.wrap{
+width: 700px;
+padding: 20px;
+}
+.main{
+position: absolute;
+float: left;
+width: 400px;
+
+}
+img{
+margin: 3px;
+}
+.sidebar{
+float: right;
+width: 280px;
+margin: 5px;
+line-height: 35px;
+font-size: 22px;
+
+}
+.footer{
+position: absolute;
+clear: both;
+background-color: grey;
+width: 800px;
+height: 60px;
+color: white;
+bottom: 0;
+}
+a{
+color: white;
+margin: 30px;
+}
+li{
+float: left;
+list-style: none;
+text-decoration: underline;
+text-align: center;
+font-size: 18px;
+}
