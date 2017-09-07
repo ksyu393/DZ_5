@@ -14,7 +14,6 @@ width: 700px;
 padding: 20px;
 }
 .main{
-position: absolute;
 float: left;
 width: 400px;
 
@@ -32,7 +31,6 @@ font-size: 22px;
 }
 .footer{
 position: absolute;
-clear: both;
 background-color: grey;
 width: 800px;
 height: 60px;
